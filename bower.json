@@ -1,5 +1,5 @@
 {
-  "name": "highcharts-ng",
+  "name": "gistia-highcharts-ng",
   "description": "An AngularJS directive for Highcharts, Highstocks or Highmaps",
   "keywords": [
     "angularjs",
