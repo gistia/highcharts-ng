@@ -1,5 +1,5 @@
 {
-  "name": "highcharts-ng",
+  "name": "gistia-highcharts-ng",
   "description": "An AngularJS directive for Highcharts, Highstocks or Highmaps",
   "keywords": [
     "angularjs",
@@ -15,11 +15,13 @@
     "example",
     ".travis.yml"
   ],
-  "version": "0.0.12-dev",
+  "version": "0.0.12",
   "main": "dist/highcharts-ng.js",
   "license": "MIT",
   "authors": [
-    { "name": "Barry Fitzgerald" }
+    { "name": "Barry Fitzgerald" },
+    { "name": "Douglas Alexandre" },
+    { "name": "Felipe Coury" }
   ],
   "dependencies": {},
   "devDependencies": {
